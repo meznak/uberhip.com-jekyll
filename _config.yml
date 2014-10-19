@@ -1,0 +1,15 @@
+# Site settings
+title: Uberhip.com
+email: godber@uberhip.com
+description: "Uberhip.com - "
+baseurl: ""
+url: "http://uberhip.com"
+twitter_username: godber
+github_username:  godber
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude other junk
+exclude: ['jekyll22.gems', 'LICENSE', 'README.md']

@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Source ANTLR4 Grammar for NASA's PDS3 Label Format"
 date:   2015-01-17 09:14:02
-categories: planetary, pds3, python
+categories: planetary pds3 python
 ---
 
 At the November 2014 [DesertPy](http://desertpy.com) meeting I learned

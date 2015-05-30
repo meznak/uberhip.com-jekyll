@@ -7,7 +7,7 @@ permalink: /about/
 Welcome to my website. My name is Austin Godber. I have a bachelors in
 [Physics](http://phy.asu.edu/) from [Arizona State
 University](http://www.asu.edu/). I am a Linux geek by day ... and not
-surprisingly a Linux geek by night. I have worked no DARPA sponsored
+surprisingly a Linux geek by night. I have worked on DARPA sponsored
 computer security projects, helped start a Municipal WiFi company,
 assisted NASA's [Mars Spaceflight Facility](http://www.mars.asu.edu/) in
 surviving the Slashdot effect and wrangled virtual penguins for
